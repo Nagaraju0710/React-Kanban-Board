@@ -40,6 +40,9 @@ Make sure you have the following installed:
 git clone [https://github.com/your-repo/kanban-board.git](https://github.com/Nagaraju0710/React-Kanban-Board.git)
 cd kanban-board
 
+## deploy link:
+https://nagaraju0710.github.io/
+
 ## Install dependencies:
 
 npm install
