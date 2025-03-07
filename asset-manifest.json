@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Kanban-Board/static/css/main.9618821e.css",
+    "main.js": "/React-Kanban-Board/static/js/main.3a3a2436.js",
+    "static/js/453.8873393c.chunk.js": "/React-Kanban-Board/static/js/453.8873393c.chunk.js",
+    "static/media/logo.svg": "/React-Kanban-Board/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Kanban-Board/index.html",
+    "main.9618821e.css.map": "/React-Kanban-Board/static/css/main.9618821e.css.map",
+    "main.3a3a2436.js.map": "/React-Kanban-Board/static/js/main.3a3a2436.js.map",
+    "453.8873393c.chunk.js.map": "/React-Kanban-Board/static/js/453.8873393c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9618821e.css",
+    "static/js/main.3a3a2436.js"
+  ]
+}
