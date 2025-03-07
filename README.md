@@ -1,6 +1,6 @@
 # React-Kanban-Board
 
-##Overview
+## Overview
 
 The Kanban Board is a simple task management application built using React and Material UI. It allows users to add, search, and manage tasks by dragging and dropping them between different statuses.
 
